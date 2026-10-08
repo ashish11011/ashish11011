@@ -76,60 +76,11 @@
 
 ---
 
-## 💼 Experience
-
-| Role | Company | Period |
-|------|---------|--------|
-| **Full Stack Developer** | AV Technosys | Jan 2025 – Present |
-| **Full Stack Developer / Web Dev Intern** | Saaskart | 2024 |
-| **Software Engineering Intern** | Microsoft, Hyderabad | Apr – Jun 2023 |
-| **Microsoft Engage Mentee** | Microsoft | 2022 |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashish11011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish11011&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashish11011&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish11011&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-> Replace these with your best repos, or use the pin feature on your profile.
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Project One**](https://github.com/ashish11011/repo-name) | Short one-line description of what it does | Next.js · TypeScript · MongoDB |
-| [**Project Two**](https://github.com/ashish11011/repo-name) | Short one-line description of what it does | React Native · Node.js · AWS |
-| [**Project Three**](https://github.com/ashish11011/repo-name) | Short one-line description of what it does | OpenAI · Pinecone · RAG |
-
----
-
 ## ✍️ Latest from My Blog
 
 I share what I learn about web development, cloud, and AI at **[ashishbishnoi.com](https://www.ashishbishnoi.com)**.
 
 ---
-
-## 🤝 Let's Connect
-
-I'm always up for talking about web development, cloud architecture, or AI-powered products, and I'm open to new opportunities.
-
-<p align="center">
-  <a href="https://www.ashishbishnoi.com"><img src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ashish-bishnoi-69a9691b9/"><img src="https://img.shields.io/badge/LinkedIn-Message_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
 
 <p align="center">
   <i>⭐ If you like what you see, feel free to star a repo!</i>
